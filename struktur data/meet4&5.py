@@ -3,7 +3,7 @@
 
 # Belajar Inputan
 ivan = input("masukan kata : ")
-#print ("isi dari ivan :", ivan,bertipe data" :", type ivan)
+#print ("isi dari yasin :", yasin,bertipe data" :", type yasin)
 
 # Belajar aritmatika dasar
 x = 3
